@@ -1,0 +1,29 @@
+[
+    {
+        "img": "../assets/images/peru.jpg",
+        "alt": "Peru",
+        "name": "Peru",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/brazil.jpg",
+        "alt": "Brazil",
+        "name": "Brazil",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/iguazu.jpg",
+        "alt": "Iguazu Falls",
+        "name": "Iguazu Falls",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/bariloche.jpg",
+        "alt": "Bariloche",
+        "name": "Bariloche",
+        "button": "View Destination"
+    }
+]
+
+
+
