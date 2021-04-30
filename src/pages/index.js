@@ -9,7 +9,7 @@ import Trips from "../components/Trips"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="TRAVL" />
+    <Seo title="-" />
     <Hero />
     <Trips heading="Our Favorite Destinations" />
     <Testimonials />
